@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "strandforge"
+version = "0.1.0"
+name = "StrandForge"
+tagline = "Stylized mesh hair from curves with procedural detail"
+maintainer = "Johan <yaoo56@gmail.com>"
+type = "add-on"
+
+blender_version_min = "5.0.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Modeling", "Geometry Nodes", "Mesh"]
+
+[permissions]
+files = "Read and write user strand presets"
